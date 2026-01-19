@@ -26,12 +26,14 @@ Mon expérience couvre les systèmes institutionnels, les plateformes métier cr
 # 🛠️ Stack Technique
   # Backend
     - Java (Spring Boot, Spring Security, Spring Data)
-    - Python (Django, pipelines ML)
+    - Python (Django,Flask,FastApi pipelines ML)
+    - Node.js
     - APIs REST sécurisées
 
   # Frontend
     - Angular, TypeScript
     - Vue.js
+    - React
     - HTML5, CSS3, Tailwind, Bootstrap
 
   # Intelligence Artificielle & Data
