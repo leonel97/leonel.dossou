@@ -6,7 +6,7 @@
 Je conçois, développe et déploie des applications web de bout en bout, en combinant développement logiciel, automatisation des déploiements (CI/CD) et administration des systèmes Linux.
 Mon expérience couvre les systèmes institutionnels, les plateformes métier critiques, le cloud et l’intelligence artificielle appliquée.
 
-# 🧩 Expérience professionnelle (aperçu)
+# 🧩 Expérience professionnelle
   Consultant – Ingénieur 
   Tech Lead / Développeur Full-Stack 
   Ingénieur DevOps & Administrateur Linux
