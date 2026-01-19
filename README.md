@@ -7,9 +7,9 @@ Je conçois, développe et déploie des applications web de bout en bout, en com
 Mon expérience couvre les systèmes institutionnels, les plateformes métier critiques, le cloud et l’intelligence artificielle appliquée.
 
 # 🧩 Expérience professionnelle
-  . Consultant – Ingénieur 
+  . Consultant 
   . Tech Lead / Développeur Full-Stack 
-  . Ingénieur DevOps & Administrateur Linux
+  . DevOps & Administrateur Linux
   . Mentor technique et accompagnement d’équipes
 
 # 🔎 Domaines d’expertise
