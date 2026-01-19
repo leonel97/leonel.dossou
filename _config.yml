@@ -1,6 +1,6 @@
 title: "Léonel DOSSOU"
 logo: img/leo_visa.png
 description: "Développeur Web FullStack - Ingénieur DevOps, Formateur"
-show_downloads: false
+show_downloads: true
 theme: jekyll-theme-minimal
 lang: fr
